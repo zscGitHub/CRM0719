@@ -6,6 +6,7 @@ public class Test01 {
 		System.out.println("hello gitHub 服务器");
 		System.out.println(" gitHub 服务器 response to local");
 		System.out.println(" gitHub 服务器 response to local 22");
+		System.out.println("hello gitHub 服务器 02");
 	}
 
 }
